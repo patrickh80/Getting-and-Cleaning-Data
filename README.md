@@ -1,5 +1,12 @@
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
+This repository includes the following files:
+
+'README.md'
+'Codebook.md': describes the variables and the transformations performed
+'run_analysis.R': R script used to produce 'tidydata.txt'
+'tidydata.txt': Tidy data set output
+
 Review criteria 
 
 The submitted data set is tidy.
