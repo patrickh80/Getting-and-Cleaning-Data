@@ -34,5 +34,7 @@ with the average of each variable for each activity and each subject.
 ##Merge Test and Train Data
 #Apply labels
 
-##Create Tidy Data Set
-#Write txt file
+##Create a second, independent tidy data set 
+with the average of each variable for each activity and each subject.
+
+#Write results out to tidydata.txt file
